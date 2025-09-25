@@ -5,8 +5,15 @@
 
 body {
     background-color: rgb(217, 8, 105);
-
 }
+
+img.lado {
+    width: 100px;
+    height: auto;
+    float: right;
+    margin-right: 10px;
+}
+
 main {
     background-color: aliceblue;
     width: 500px;
